@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @3Brown1Blue,a student fron Xi'an JiaoTong University
+- 👀 I’m interested in Deeplearning,Python,C++
